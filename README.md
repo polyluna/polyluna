@@ -8,11 +8,11 @@ Now I'm learning to build the things I used to design and sell. Right now that m
 
 💬 Ask me about — career switching into tech, UX research, technical sales, working with non-technical stakeholders
 
-📝 I write at substack.com/@ployphusri
+📝 I write at [Substack](https://ployground.substack.com/)
 
-🎨 Design and research work — ployphusri.com/projects
+🎨 Design and research work — [personal website](ployphusri.com/projects)
 
-📄 Experience — LinkedIn
+📄 Experience — [LinkedIn](https://www.linkedin.com/in/ployphusri/)
 
 ⚡ Fun fact — I teach yoga and play go
 
