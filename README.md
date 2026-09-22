@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Ploy Phusri</h1> <h3 align="center">CS (BCS) @ UBC · ex-UX, sales engineering, consulting</h3>
 
-I spent several years in consulting, technical sales, and UX/UI design before coming back to school for computer science. I want to learn how to build the things I used to design and sell from ground up. Outside of my coursework, I spend my spare time helping co-lead our campus AI Safety group since I care about AI x-risk.
+I spent several years in consulting, technical sales, and UX/UI design before coming back to school for computer science. I want to learn how to build the things I used to design and sell from ground up. Outside of my coursework, I spend my spare time helping co-lead our campus AI Safety group.
 
 🌱 Currently learning — machine learning, computer system, and programming language (interpreter)
 
