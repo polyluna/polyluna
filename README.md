@@ -1,12 +1,10 @@
 <h1 align="center">Hey 👋, I'm Ploy Phusri</h1> <h3 align="center">CS (BCS) @ UBC · ex-UX, sales engineering, consulting</h3>
 
-I spent several years in consulting, technical sales, and UX/UI design before coming back to school for computer science. Across all three, I kept hitting the same wall: the hard part of building software is rarely the code — it's understanding what people actually need, and explaining technical ideas to people who don't share your context.
+I spent several years in consulting, technical sales, and UX/UI design before coming back to school for computer science. I want to learn how to build the things I used to design and sell from ground up. Outside of my coursework, I spend my spare time helping co-lead our campus AI Safety group since I care about AI x-risk.
 
-Now I'm learning to build the things I used to design and sell. Right now that means machine learning, and finding better ways to explain hard technical concepts visually.
+🌱 Currently learning — machine learning, computer system, and programming language (interpreter)
 
-🌱 Currently learning — machine learning, TypeScript, data visualization
-
-💬 Ask me about — career switching into tech, UX research, technical sales, working with non-technical stakeholders
+💬 Ask me about — career switching into tech, UX research, technical sales, AI Safety field-building
 
 📝 I write at [Substack](https://ployground.substack.com/)
 
