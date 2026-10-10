@@ -6,7 +6,7 @@ I spent several years in consulting, technical sales, and UX/UI design before co
 
 💬 Ask me about — career switching into tech, UX research, technical sales, AI Safety field-building
 
-📝 I write at [Substack](https://ployground.substack.com/)
+📝 I write at [Substack](https://ployisthinking.substack.com/)
 
 🎨 Design and research work — [personal website](ployphusri.com/projects)
 
